@@ -1,0 +1,10 @@
+			Critters in Store 
+
+				Sun Sep 16 01:28:42 EDT 2018
+
+Quantity 	 Animal
+
+1        	Dog
+3        	Cats
+6        	Snakes
+4        	Lizards

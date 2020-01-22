@@ -1,0 +1,38 @@
+			Exam Results Report 
+
+				Tue Nov 20 18:50:12 EST 2018
+
+Student Name	 Letter Grade	 Score
+=======================================
+Sandy Brown		B	  85.0
+James Grabau		A	  95.0
+Kay Rodriguez		B	  84.0
+Jane McVey		C	  75.0
+Brian Eno		F	  45.0
+Daniel Lanois		B+	  87.0
+Paul Thomas		D+	  67.0
+Rob Jocabs		F	  55.0
+Colton Mangon		A+	  99.0
+Spounge Bob		B	  86.0
+Patrick Star		D+	  67.0
+Bobbie Hall		A+	  99.0
+Danny Chan		C	  76.0
+Crystal Brown		A-	  92.0
+ 
+There's a total of 14 students that took the exam, so the total number of exams are 14.
+ 
+Total number A+ 's are 2.
+Total number of A 's are 1.
+Total number of A- 's are 1.
+Total number of B+ 's are 1.
+Total number of B 's are 3.
+Total number of B- 's are 0.
+Total number of C+ 's are 0.
+Total number of C 's are 2.
+Total number of C- 's are 0.
+Total number of D+ 's are 2.
+Total number of D 's are 0.
+Total number of D- 's are 0.
+Total number of F 's are 2.
+ 
+Total Average of Exams are 79.43%
