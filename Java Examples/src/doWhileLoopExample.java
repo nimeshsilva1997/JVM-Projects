@@ -16,7 +16,7 @@ public class doWhileLoopExample {
 			Scanner prompt = new Scanner(System.in); // program waits for program to tell user input for prompt Y/N
 			yes = prompt.nextLine();
 
-		} while (yes.equals("Y"));
+		} while (yes.toUpperCase().equals("Y"));
 
 		System.out.println("Have a great day!");
 
