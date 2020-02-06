@@ -1,5 +1,7 @@
 import java.io.EOFException;
 import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
@@ -43,9 +45,10 @@ public class ThreadedSerializerServer implements Runnable {
 				System.out.println("Successfully connected to the client");
 
 				// Create a server instance and a new thread for each client connection
+				ThreadedSerializerServer tss = new ThreadedSerializerServer(clientSocket);
 
 				// Thread.start() method calls the run() method
-
+				new Thread(tss).start();
 			}
 		} catch (IOException ex) {
 			ex.printStackTrace();
@@ -60,6 +63,8 @@ public class ThreadedSerializerServer implements Runnable {
 
 			// Setup to read from the client with ObjectInputStream and write to the client
 			// with ObjectOutputStream
+			ObjectInputStream streamIn = new ObjectInputStream(clientSocket.getInputStream());
+			ObjectOutputStream streamOut = new ObjectOutputStream(clientSocket.getOutputStream());
 
 			// Continue to listen for client messages until client terminates
 			do {
@@ -89,7 +94,7 @@ public class ThreadedSerializerServer implements Runnable {
 						serializableAnimal.setWeight(125.25);
 
 						// Send the updated version of Animal back to the client
-
+						streamOut.writeObject(serializableAnimal);
 					}
 				} catch (EOFException ex) {
 					/*
