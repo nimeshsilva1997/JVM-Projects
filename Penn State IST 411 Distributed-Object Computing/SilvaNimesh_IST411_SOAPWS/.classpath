@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/javax.jws_2.0.0.v201005080400.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/javax.xml.soap-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/jaxws-api-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/jaxws-rt-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/saaj-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/stax-ex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nqs5389/Downloads/IST411MIS466_SOAPWS_jars/streambuffer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
