@@ -1,6 +1,6 @@
 # Java Client-Server App with XML (SOAP) Web Services
 
-> This exercise was adapted from the following totorials
+> The following exercise was adapted from the following tutorial
 >>[CodeJava: Java Client Server XML Web Services (JAX-WS) Tutorial](https://www.codejava.net/java-ee/web-services/create-client-server-application-for-web-service-in-java/)
 
 ### Technologies
