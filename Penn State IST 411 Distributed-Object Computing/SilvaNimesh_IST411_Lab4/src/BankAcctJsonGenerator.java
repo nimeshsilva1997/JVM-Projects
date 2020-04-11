@@ -1,3 +1,8 @@
+/*
+Nimesh Silva
+IST 411: Distributed-Object Computing
+April 11, 2020
+ */
 //Generate JSON data from a JsonObject and write the JSON data to the newBankAccts.json file
 import model.BankAcct;
 
