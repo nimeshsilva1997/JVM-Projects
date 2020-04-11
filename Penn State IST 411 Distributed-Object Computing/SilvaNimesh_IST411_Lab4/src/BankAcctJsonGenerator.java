@@ -62,7 +62,7 @@ public class BankAcctJsonGenerator {
         }        
         jGtr.writeEnd();
 
-        //Clean up, Flushes the writer, closes the generator, writer, an output stream
+        //Clean up, Flushes the writer, closes the generator, writer, and output stream
         wtr.flush();
         jGtr.close();
         wtr.close();
@@ -77,7 +77,7 @@ public class BankAcctJsonGenerator {
     	//Create an instance of the BankAcctJsonReader class
         BankAcctJsonReader ajr = new BankAcctJsonReader();
 
-        //Use the BankAcctJSonReader and its buildBankAcctsList metho to retrieve a List of Bank Account instances created from the JSON data in the newBankAccts.json file
+        //Use the BankAcctJSonReader and its buildBankAcctsList method to retrieve a List of Bank Account instances created from the JSON data in the newBankAccts.json file
         ArrayList<BankAcct> animals = ajr.buildBankAcctsList(bankAcctsJsonFile);        
         return animals;
     }
