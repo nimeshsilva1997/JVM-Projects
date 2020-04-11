@@ -2,7 +2,6 @@
 package ws.soap.client;
 
 import javax.xml.namespace.QName;
-import javax.xml.ws.*;
 import java.net.MalformedURLException;
 import java.net.URL;
 
