@@ -1,13 +1,10 @@
-
+//Generate JSON data from a JsonObject and write the JSON data to the file
 import model.BankAcct;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.OutputStream;
-import java.io.OutputStreamWriter;
-import java.io.Writer;
-import java.util.ArrayList;
+
 import javax.json.Json;
 import javax.json.stream.JsonGenerator;
+import java.io.*;
+import java.util.ArrayList;
 
 public class BankAcctJsonGenerator {
     public static void main(String[] args) throws IOException {  
