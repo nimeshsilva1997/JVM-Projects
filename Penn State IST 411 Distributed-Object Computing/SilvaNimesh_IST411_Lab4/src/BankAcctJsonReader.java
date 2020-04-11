@@ -40,10 +40,10 @@ public class BankAcctJsonReader {
         //Holds instaces of BankAcct that will be generated from the bankAccounts.json file
     	ArrayList<BankAcct> bankAcctsList = new ArrayList<BankAcct>();
 
-    	//Holds ata being read from bankAccounts.json file
+    	//Holds data being read from bankAccounts.json file
         InputStream in = null;
 
-        //Reads JSON ata abdn generates JsonObject or JsonArray
+        //Reads JSON data and generates JsonObject or JsonArray
         JsonReader jRdr = null;									
         try {
 
