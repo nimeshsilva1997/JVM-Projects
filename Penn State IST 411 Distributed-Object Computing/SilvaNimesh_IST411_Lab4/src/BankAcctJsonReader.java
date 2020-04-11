@@ -3,7 +3,7 @@ Nimesh Silva
 IST 411: Distributed-Object Computing
 April 11, 2020
  */
-//Reads JSON ata from the bankAccounts.json file
+//Reads JSON data from the bankAccounts.json file
 import model.BankAcct;
 
 import javax.json.*;
