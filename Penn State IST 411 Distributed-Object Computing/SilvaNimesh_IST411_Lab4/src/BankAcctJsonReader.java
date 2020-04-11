@@ -89,7 +89,7 @@ public class BankAcctJsonReader {
                 jRdr.close();
             }
         }
-        //Passes the list back the the calling method
+        //Passes the list back to the calling method
         return bankAcctsList;
     }
 }
