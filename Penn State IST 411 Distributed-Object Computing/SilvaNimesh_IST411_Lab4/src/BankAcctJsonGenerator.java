@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 public class BankAcctJsonGenerator {
     public static void main(String[] args) throws IOException {
-        //Reference to the netBackAccts.json file (outputs file where JON data will be written to)
+        //Reference to the newBackAccts.json file (outputs file where JON data will be written to)
     	String newBankAcctsJsonFile = "newBankAccts.json";
 
     	//Creates and instance of the BankAcctJSonGenerator class
