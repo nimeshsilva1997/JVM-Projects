@@ -1,3 +1,8 @@
+/*
+bankAccount.json file contains a set of data.
+Using the JSON API in Java, it is converting that data fro mthe JSON format into a Java object by creating a class that mirros the structur of the JSON data.
+The BankAcct.java contains properties of getters and setters that represent each of the name/value pairs the bank account in the JSON array.
+ */
 package model;
 
 public class BankAcct {
