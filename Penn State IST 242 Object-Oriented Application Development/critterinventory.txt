@@ -1,4 +1,0 @@
-1,Dog
-3,Cats
-6,Snakes
-4,Lizards
