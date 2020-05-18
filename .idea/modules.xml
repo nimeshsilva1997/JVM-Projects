@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JVM-Projects.iml" filepath="$PROJECT_DIR$/.idea/JVM-Projects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/b_Program/multipleMessages/multipleMessages.iml" filepath="$PROJECT_DIR$/Java/b_Program/multipleMessages/multipleMessages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/zb_Program/multipleMessages/multipleMessages.iml" filepath="$PROJECT_DIR$/Java/zb_Program/multipleMessages/multipleMessages.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20f5495b-f216-4341-9d05-6f79cfd738da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basicArrays/basicArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basicCalculatorGUI/basicCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clientServer/clientServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupProjectCalculator/groupCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupProjectJDBC_GUI/groupProjectJDBC_GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inputOutputTextFile/inputOutputFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventoryJDBC_GUI/inventoryJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaShopGUI/pizzaShopGUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingScores/src/com/testingScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingScores/testingScores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/CalculateInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/CalculateInterestResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/InterestCalculatorWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/InterestCalculatorWSClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/InterestCalculatorWSService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/server/InterestCalculatorWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/server/InterestCalculatorWSServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/EchoClient_template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/EchoServer_template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/InterestCalcClient_template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/InterestCalcServer_template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/SimpleNetworkApp_template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/gradeCalcClient_NimeshSilva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/gradeCalcServer_NimeshSilva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/bin/FileIOExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/bin/FileIOExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/bin/GUIExample$thehandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/bin/GUIExample$thehandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/bin/GUIExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/bin/GUIExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/bin/GUIExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/bin/GUIExample2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/bin/ShowMessageDialogExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/bin/ShowMessageDialogExample1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/bin/StringFormatExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/bin/StringFormatExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/bin/doWhileLoopExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/bin/doWhileLoopExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/bin/guiDBExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/bin/guiDBExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/bin/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/bin/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/src/FileIOExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/src/FileIOExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/src/GUIExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/src/GUIExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/src/GUIExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/src/GUIExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/src/ShowMessageDialogExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/src/ShowMessageDialogExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/src/SilvaProject3UMLs.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/src/SilvaProject3UMLs.ucls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/src/StringFormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/src/StringFormatExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/src/doWhileLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/src/doWhileLoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/src/guiDBExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/src/guiDBExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a_Example/src/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../za_Example/src/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/Exam2Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/Exam2Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/HW1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/HW1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/HW2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/HW2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/HW3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/HW3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/HW4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/HW4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/HW5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/HW5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/HW6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/HW6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/IST140Exam2ExtraCredit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/IST140Exam2ExtraCredit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToClear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToClear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToDivide.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToDivide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToEight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToMultiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToNine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToNine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToSeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToSeven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToSix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToSix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToSolve.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToSolve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToSubtract.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToSubtract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator$ListenToZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator$ListenToZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/JavaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/JavaCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/PracticeForIST140FinalExam.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/PracticeForIST140FinalExam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/TheExtremeProgrammersGroupProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/TheExtremeProgrammersGroupProject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/testExtraCredit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/testExtraCredit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/testExtraCredit2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/testExtraCredit2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/bin/testExtraCredit3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/bin/testExtraCredit3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/Exam2Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/Exam2Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/HW1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/HW2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/HW3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/HW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/HW4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/HW5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/HW5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/HW6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/HW6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/IST140Exam2ExtraCredit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/IST140Exam2ExtraCredit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/JavaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/JavaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/PracticeForIST140FinalExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/PracticeForIST140FinalExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/TheExtremeProgrammersGroupProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/TheExtremeProgrammersGroupProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/testExtraCredit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/testExtraCredit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/testExtraCredit2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/testExtraCredit2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b_Program/src/testExtraCredit3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zb_Program/src/testExtraCredit3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/IST242Exam2Part1 UML.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/IST242Exam2Part1 UML.ucls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/SilvaIST242TakeHomeFinalPart1.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/SilvaIST242TakeHomeFinalPart1.ucls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/SilvaProject4 Diagram.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/SilvaProject4 Diagram.ucls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/SilvaProject5 Diagram.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/SilvaProject5 Diagram.ucls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/ChildClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/ChildClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/ParentClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/ParentClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/PizzaUI$ClickAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/PizzaUI$ClickAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/PizzaUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/PizzaUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/PizzaUI2$ClickAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/PizzaUI2$ClickAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/PizzaUI2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/PizzaUI2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SIlvaProject04Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SIlvaProject04Test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SIlvaProject04Test$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SIlvaProject04Test$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SIlvaProject04Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SIlvaProject04Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaIST242Exam2Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaIST242Exam2Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaIST242TakeHomeFinalPart1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaProject1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaProject1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaProject2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaProject2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaProject4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaProject4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaProject4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaProject4Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaProject5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaProject5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaProject6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaProject6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/SilvaProject6Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/SilvaProject6Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/TeamORACLELLC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/TeamORACLELLC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/bin/testClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/bin/testClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/critterinventory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/critterinventory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/critterreport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/critterreport.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/scores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/ChildClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/ChildClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/ParentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/ParentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SIlvaProject04Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SIlvaProject04Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaIST242Exam2Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaIST242Exam2Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaIST242TakeHomeFinalPart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaIST242TakeHomeFinalPart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaProject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaProject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaProject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaProject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaProject3UMLs.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaProject3UMLs.ucls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaProject4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaProject4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaProject4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaProject4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaProject5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaProject5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaProject6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaProject6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/SilvaProject6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/SilvaProject6Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/TeamORACLELLC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/TeamORACLELLC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/rebel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/rebel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c_Graphical User Interface/src/testClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zc_Graphical User Interface/src/testClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/IST411MIS466_SOAPWS.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/IST411MIS466_SOAPWS.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/Penn State IST 411 Distributed-Object Computing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/Penn State IST 411 Distributed-Object Computing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/CalculateInterest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/CalculateInterest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/CalculateInterestResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/CalculateInterestResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/InterestCalculatorWS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/InterestCalculatorWS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/InterestCalculatorWSClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/InterestCalculatorWSClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/InterestCalculatorWSService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/InterestCalculatorWSService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/ObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/ObjectFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/package-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/client/package-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/server/InterestCalculatorWS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/server/InterestCalculatorWS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/server/InterestCalculatorWSServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/bin/ws/soap/server/InterestCalculatorWSServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/CalculateInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/soap/client/CalculateInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/CalculateInterestResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/soap/client/CalculateInterestResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/InterestCalculatorWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/soap/client/InterestCalculatorWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/InterestCalculatorWSClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/soap/client/InterestCalculatorWSClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/InterestCalculatorWSService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/soap/client/InterestCalculatorWSService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/ObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/soap/client/ObjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/soap/client/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/server/InterestCalculatorWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/soap/server/InterestCalculatorWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/server/InterestCalculatorWSServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/soap/server/InterestCalculatorWSServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab4/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab4/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab4/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab4/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab4/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab4/bin/bankAccounts.json" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab4/bin/bankAccounts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab4/src/BankAcctJsonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab4/src/BankAcctJsonGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab4/src/BankAcctJsonReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab4/src/BankAcctJsonReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab4/src/bankAccounts.json" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab4/src/bankAccounts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_Lab4/src/model/BankAcct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab4/src/model/BankAcct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ObjectFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseText.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseTextResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseTextResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseTextWS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseTextWS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseTextWSClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseTextWSClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseTextWSService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/ReverseTextWSService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/package-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/client/package-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/server/ReverseTextWS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/server/ReverseTextWS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/server/ReverseTextWSServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/bin/ws/soap/server/ReverseTextWSServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ObjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseTextResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseTextResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseTextWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseTextWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseTextWSClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseTextWSClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseTextWSService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/ReverseTextWSService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/client/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_Lab3/src/ws/soap/client/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/server/ReverseTextWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/server/ReverseTextWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/server/ReverseTextWSServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/SilvaNimesh_IST411_SOAPWS/src/ws/soap/server/ReverseTextWSServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/EchoClient_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/EchoClient_template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/EchoServer_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/EchoServer_template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/HTTPClient_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/HTTPClient_template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/HTTPServer_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/HTTPServer_template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/InterestCalcClient_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/InterestCalcClient_template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/InterestCalcServer_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/InterestCalcServer_template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/SimpleNetworkApp_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/SimpleNetworkApp_template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/ThreadedSerializerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/ThreadedSerializerClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/ThreadedSerializerServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/ThreadedSerializerServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/gradeCalcClient_NimeshSilva.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/gradeCalcClient_NimeshSilva.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/bin/gradeCalcServer_NimeshSilva.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/bin/gradeCalcServer_NimeshSilva.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/lib/javax.annotation.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/lib/javax.annotation.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/lib/javax.ejb.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/lib/javax.ejb.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/lib/javax.jms.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/lib/javax.jms.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/lib/javax.persistence.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/lib/javax.persistence.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/lib/javax.resource.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/lib/javax.resource.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/lib/javax.servlet.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/lib/javax.servlet.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/lib/javax.servlet.jsp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/lib/javax.transaction.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/lib/javax.transaction.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/EchoClient_template.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clientServer/src/com/EchoClient_template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/EchoServer_template.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clientServer/src/com/EchoServer_template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/HTTPClient_template.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/HTTPClient_template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/HTTPServer_template.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/HTTPServer_template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/InterestCalcClient_template.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clientServer/src/com/InterestCalcClient_template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/InterestCalcServer_template.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clientServer/src/com/InterestCalcServer_template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/SimpleNetworkApp_template.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clientServer/src/com/SimpleNetworkApp_template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/ThreadedSerializerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/ThreadedSerializerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/ThreadedSerializerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/src/ThreadedSerializerServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/gradeCalcClient_NimeshSilva.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clientServer/src/com/gradeCalcClient_NimeshSilva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/src/gradeCalcServer_NimeshSilva.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clientServer/src/com/gradeCalcServer_NimeshSilva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d_Distributed Object Computing/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../zd_Distributed Object Computing/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1c3rOHa65AIvtChsSnOdcgGSdeR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ws/soap/server" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nimes\IdeaProjects\JVM-Projects\Java\webServiceClientServer\src\ws\soap\server" />
+      <recent name="C:\Users\nimes\IdeaProjects\JVM-Projects\Java\webServiceClientServer\src\ws\soap\client" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20f5495b-f216-4341-9d05-6f79cfd738da" name="Default Changelist" comment="" />
+      <created>1589768083254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589768083254</updated>
+      <workItem from="1589768086741" duration="273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
