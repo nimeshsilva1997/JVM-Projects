@@ -5,7 +5,7 @@
 
 ### Technologies
 
-    IntelliJ IDEA
+    Jetbrains IntelliJ IDEA
 
 ### Author
 
