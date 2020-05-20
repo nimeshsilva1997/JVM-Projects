@@ -1,4 +1,4 @@
-package com.springboot.controller;
+package com.springboot.controller; //control class sens and reads a form view
 
 import com.springboot.bean.User;
 import org.springframework.stereotype.Controller;
