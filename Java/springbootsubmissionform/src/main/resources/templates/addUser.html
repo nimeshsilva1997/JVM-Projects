@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <!--connects to thymeleaf site-->
+<!--th:object refers to the user form bean, not a class name, but a Spring bean name-->
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +8,7 @@
 </head>
 <body>
 <h1>Add user</h1>
-<!--form to add users-->
+<!--This view contains the form-->
 <form action="#" th:action="@{/addUser}" th:object="${user}" method="post">
     <p>
         Name: <input type="text" th:field="*{name}">
