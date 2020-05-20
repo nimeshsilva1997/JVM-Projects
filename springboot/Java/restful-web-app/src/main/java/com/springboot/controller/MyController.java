@@ -12,8 +12,8 @@ public class MyController {
 
     @Autowired
     private ICountryService countryService;
-
-    @RequestMapping("/countries")
+//inject a CountryService into the countryService variable
+    @RequestMapping("/countries") //used to map web requests to Spring controller methods
     public List<Country> listCountries() {
         return  countryService.findAll();
     }
