@@ -13,6 +13,9 @@ public class MyController {
         return "addUser";
     }
     @PostMapping("/addUser") //sets up posting the mapping to show a message
+    //The user is passed as a parameter to the processForm() handler.
+    //Spring then tries to fill the bean with the request data.
+    //The data is automatically available for the Thymeleaf showMessage view.
     public String processForm (User user) {
         return "showMessage";
     }
