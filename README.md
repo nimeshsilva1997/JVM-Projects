@@ -1,20 +1,11 @@
 # Java Programming Projects
 
 > The following are a collection of my Java Programming Projects
->> If you are interested in my Java SOAP Web Services Projects, please navigate to my Distributed Object Computing folder, and you will find a folder that mentions SOAP.
+>> If you are interested in my Spring Boot Applications, please navigate to the springboot folder.
 
 ### Technologies
 
-    Eclipse
-    NetBeans
     IntelliJ IDEA
-    Visual Studio Code
-
-#### Version
-
-    1.0.0
-
-## App Info
 
 ### Author
 
