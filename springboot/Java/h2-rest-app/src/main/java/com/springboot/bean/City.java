@@ -1,5 +1,5 @@
 package com.springboot.bean;
-
+//City class
 public class City {
 
     private Long id;
@@ -18,23 +18,23 @@ public class City {
     public Long getId() {
         return id;
     }
-
+//sets Id
     public void setId(Long id) {
         this.id = id;
     }
-
+//gets name and returns name
     public String getName() {
         return name;
     }
-
+//sets name
     public void setName(String name) {
         this.name = name;
     }
-
+//gets population and returns it
     public int getPopulation() {
         return population;
     }
-
+//sets population
     public void setPopulation(int population) {
         this.population = population;
     }
