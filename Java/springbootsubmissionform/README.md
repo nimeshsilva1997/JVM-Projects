@@ -1,5 +1,9 @@
 # Getting Started
 
+###About Project
+This project shows a submission form in Spring Boot and how to submit a form in the Spring Boot application.
+To navigate to the webpage please run the program and go to:
+[localhost:8080/addUser](localhost:8080/addUser).
 ### Reference Documentation
 For further reference, please consider the following sections:
 
