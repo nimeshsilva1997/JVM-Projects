@@ -1,5 +1,5 @@
 package com.springboot.service;
-
+//implementation of the ICountryService contract
 import com.opencsv.CSVReader;
 import com.springboot.bean.Country;
 import java.io.File;
@@ -18,14 +18,17 @@ public class CountryService implements ICountryService {
     private final ArrayList<Country> countries;
 
     public CountryService() {
+
         countries = new ArrayList();
     }
 
     @Override
     public ArrayList<Country> findAll() {
+
         FileInputStream fis = null;
 
         try {
+
             String fileName = "src/main/resources/countries.csv";
 
             fis = new FileInputStream(new File(fileName));
