@@ -1,5 +1,6 @@
 package com.springboot.bean;
-
+//Automatically filled with data from the form request.
+//The attributes are matching the form fields.
 public class User {
 
     private String name;
