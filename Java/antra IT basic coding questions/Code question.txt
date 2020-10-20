@@ -1,0 +1,6 @@
+// Find the nth largest number in an array, by its value. n > 0. All positive numbers.
+// input: arr = {1,2,3,3,4,4}
+// output : if n=1, 1st largest = 4,  if  n=2, 2nd largest = 3. if n = 5, return -1
+public int nthLargest(int[] array, int n){
+
+}
