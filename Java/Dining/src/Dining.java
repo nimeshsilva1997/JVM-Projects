@@ -1,3 +1,9 @@
+/*
+Nimesh Silva
+January 28, 2021
+Dr. Bullumulle
+CYB 5285 - Secure Operating Systems
+ */
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.ThreadLocalRandom;
 
