@@ -71,7 +71,7 @@ public class DiningPhilosophers {
 
     }
 
-    public static void main(String argv[]) {
+    public static void main(String args[]) {
         System.out.println("Dining philosophers problem.");
 
         for (int i = 0; i < philosophersNumber; i++) {
